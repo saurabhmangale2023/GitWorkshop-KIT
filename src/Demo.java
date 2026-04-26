@@ -3,8 +3,8 @@ public class Demo {
 
     {
         System.out.println("Hello");
-        add(5,7);
-        int result=0;
+
+        int result=add(5,7);;
         System.out.println("Add : "+result);
 
     }
